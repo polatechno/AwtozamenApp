@@ -1,6 +1,8 @@
 # AwtozamenApp
 Custom keyboard auto correct with custom database
 
+You can download APK file from app/ folder
+
 ![Screens](https://github.com/polatechno/AwtozamenApp/blob/master/app/screens.png)
 
  - Used Realm library for database operations.
