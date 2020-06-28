@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AwtozamenApp</string>
+
+    <!-- Titles for ImePreference -->
+    <string name="settings_name">Polatov Keyboard Settings</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+
+
+    <string name="sound">Sound on keypress</string>
+    <string name="show_suggestions">Show suggestions</string>
+
+
+    <!-- Labels on soft keys -->
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+
+    <!-- Database strings -->
+
+    <!-- Symbols that are commonly considered word separators in this language -->
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+
+
+
+    <string name="search_hint_toast">Please enter a word for a search!</string>
+    <string name="no_result">The word does not exist in the dictionary!</string>
+    <string name="removed_word">The word is removed from the dictionary!</string>
+    <string name="search_hint">To see all words, pull to refresh. Words typed in any input will be stored in db after your press space.</string>
+    <string name="search">Enter search query</string>
+
+</resources>
