@@ -1,6 +1,8 @@
 # AwtozamenApp
 Custom keyboard auto correct with custom database
 
+![Screens](https://github.com/polatechno/AwtozamenApp/blob/master/app/screens.png)
+
  - Used Realm library for database operations.
  - Initially, I prelaoded these items to my Dictionary DB:
  So when you are trying the app, start writing with any of the below items.
